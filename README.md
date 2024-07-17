@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小郑同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -91,11 +91,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
-* <a href='https://blog.sunguoqi.com/posts/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://blog.sunguoqi.com/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/xizang/' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
+* <a href='' target='_blank'>日本东京五日</a> - 2024-03-18
+* <a href='' target='_blank'>北京！你好！一切都是最好的安排！</a> - 2024-03-10
+* <a href='' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
+* <a href='' target='_blank'>泰山之行｜青春没有售价，泰山就在脚下！</a> - 2024-02-16
+* <a href='' target='_blank'>秦皇岛之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2023-08-03
 <!-- END_SECTION:blog -->
 
 </td></tr>
