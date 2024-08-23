@@ -61,10 +61,8 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="![image](https://media.licdn.com/dms/image/v2/C560BAQHbT_GhSj1uvw/company-logo_200_200/company-logo_200_200/0/1630648632638?e=2147483647&v=beta&t=MKZfoWPIpKpd881RKIx9O5LF-WfBQVSyu4P8On93L-0)
-" />
+<img align="right" width="88" src="https://th.bing.com/th?id=OIP.9rJEcaqMOTQZ-VOYkwJtpgAAAA&w=80&h=80&c=1&vt=10&bgcl=982319&r=0&o=6&pid=5.1" />
 
-<img align="right" width="88" src="(https://media.licdn.com/dms/image/v2/C560BAQHbT_GhSj1uvw/company-logo_200_200/company-logo_200_200/0/1630648632638?e=2147483647&v=beta&t=MKZfoWPIpKpd881RKIx9O5LF-WfBQVSyu4P8On93L-0" />
 
 - [北京达观数据有限公司](https://datagrand.com/) &emsp; 📌 2023-07-04 —— 2024 -1
 
