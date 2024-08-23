@@ -61,16 +61,17 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+<img align="right" width="88" src="![image](https://github.com/user-attachments/assets/5ecf0fb6-1789-4446-a0b2-b34c2a2df6df)
+" />
 
 - [北京达观数据有限公司](https://datagrand.com/) &emsp; 📌 2023-07-04 —— 2024 -1
 
   - 工作岗位：python工程师
   - 工作内容：实习
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://th.bing.com/th?id=OIP.9rJEcaqMOTQZ-VOYkwJtpgAAAA&w=80&h=80&c=1&vt=10&bgcl=982319&r=0&o=6&pid=5.1" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-03-19 —— 2023-06-19
+- [上海识装信息科技有限公司](	www.dewu.com) &emsp; 📌 2023-03-19 —— 2023-06-19
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：杂活
