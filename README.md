@@ -61,7 +61,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="![image](https://github.com/user-attachments/assets/5ecf0fb6-1789-4446-a0b2-b34c2a2df6df)
+<img align="right" width="88" src="![image](https://media.licdn.com/dms/image/v2/C560BAQHbT_GhSj1uvw/company-logo_200_200/company-logo_200_200/0/1630648632638?e=2147483647&v=beta&t=MKZfoWPIpKpd881RKIx9O5LF-WfBQVSyu4P8On93L-0)
 " />
 
 - [北京达观数据有限公司](https://datagrand.com/) &emsp; 📌 2023-07-04 —— 2024 -1
@@ -73,7 +73,7 @@
 
 - [上海识装信息科技有限公司](	www.dewu.com) &emsp; 📌 2023-03-19 —— 2023-06-19
 
-  - 工作岗位：Web 前端开发工程师
+  - 工作岗位：开发实习
   - 工作内容：杂活
 
 
