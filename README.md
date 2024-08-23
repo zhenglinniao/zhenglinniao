@@ -48,7 +48,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://music.apple.com/us/album/eyes/1538265322" />
+<img align="right" width="88" src="https://www.bing.com/images/search?view=detailV2&ccid=0OKwmppK&id=30F885B17F88E616A7843C5062F6260CC9CB45C7&thid=OIP.0OKwmppKbd4dkPom6A_PwgHaGk&mediaurl=https%3a%2f%2fwww.sonymusic.co.jp%2fimg%2fcommon%2fartist_image%2f70009000%2f70009225%2fimages%2f202202011543070.jpg&exph=781&expw=880&q=milet&simid=607989128851107706&FORM=IRPRST&ck=472EC0B7E11BF5A3D02BDA80DF50FAB3&selectedIndex=11&itb=0" />
 
 <p>&emsp;&emsp;嗨，你好，我是kid同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
