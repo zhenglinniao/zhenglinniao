@@ -123,17 +123,8 @@
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhenglinniao&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhenglinniao&show_icons=true&include_all_commits=true&hide_border=true&theme=default&locale=cn" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=zhenglinniao&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="GitHub statistics" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenglinniao&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenglinniao&layout=compact&langs_count=8&hide_border=true&theme=default&locale=cn" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenglinniao&layout=compact&langs_count=8&hide_border=true&locale=cn" alt="Most used languages" />
-  </picture>
+  <img width="49%" src="./assets/profile/overview.svg" alt="GitHub profile overview" />
+  <img width="49%" src="./assets/profile/stack.svg" alt="Core technology stack" />
 
   <br />
 
@@ -143,31 +134,43 @@
     <img src="https://streak-stats.demolab.com?user=zhenglinniao&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
   </picture>
 
-  <br /><br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=zhenglinniao&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
-
-  <br /><br />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhenglinniao&theme=github-compact&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhenglinniao&theme=minimal&hide_border=true&area=true" />
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zhenglinniao&theme=minimal&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-  </picture>
-
 </div>
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zhenglinniao/Quant_binance">📈 Quant_binance</a></h3>
+      <p>面向 Binance 的量化交易平台，包含趋势跟踪、网格交易，以及模拟盘与实盘运行模式。</p>
+      <code>Python</code> <code>Quant Trading</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zhenglinniao/Cryptocurrency-Monitoring">🪙 Cryptocurrency Monitoring</a></h3>
+      <p>用于分析加密市场的专业级情报与可视化仪表盘。</p>
+      <code>TypeScript</code> <code>Dashboard</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zhenglinniao/langgraph_agent">🤖 LangGraph Agent</a></h3>
+      <p>生成式人工智能代理的学习、开发与实现。</p>
+      <code>Jupyter Notebook</code> <code>AI Agent</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zhenglinniao/vibe-coding-cn">✨ Vibe Coding CN</a></h3>
+      <p>开发经验、中文资料与提示词库组成的 Vibe Coding 工作站。</p>
+      <code>Python</code> <code>Prompt Library</code>
+    </td>
+  </tr>
+</table>
 
 ## 💬 A little inspiration
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Developer quote" />
-  </picture>
-
-  <br />
+  <h3>“The best way to predict the future is to invent it.”</h3>
+  <p><em>— Alan Kay</em></p>
 
   <img src="./assets/images/man_run.png" width="180" alt="Keep moving" />
 

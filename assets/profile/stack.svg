@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-labelledby="title desc">
+  <title id="title">Core technology stack</title>
+  <desc id="desc">Python, TypeScript, JavaScript, Vue, React and Django.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#052e2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="493" height="188" rx="16" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="24" y="23" width="5" height="27" rx="2.5" fill="url(#accent)"/>
+  <text x="42" y="43" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Core stack</text>
+  <text x="42" y="64" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12">Languages and frameworks I build with</text>
+  <line x1="24" y1="82" x2="471" y2="82" stroke="#30363d"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="24" y="99" width="126" height="30" rx="15" fill="#3776ab"/><text x="87" y="119" fill="#fff" text-anchor="middle">Python</text>
+    <rect x="160" y="99" width="145" height="30" rx="15" fill="#3178c6"/><text x="232.5" y="119" fill="#fff" text-anchor="middle">TypeScript</text>
+    <rect x="315" y="99" width="156" height="30" rx="15" fill="#f7df1e"/><text x="393" y="119" fill="#111" text-anchor="middle">JavaScript</text>
+    <rect x="24" y="140" width="126" height="30" rx="15" fill="#42b883"/><text x="87" y="160" fill="#fff" text-anchor="middle">Vue.js</text>
+    <rect x="160" y="140" width="145" height="30" rx="15" fill="#087ea4"/><text x="232.5" y="160" fill="#fff" text-anchor="middle">React</text>
+    <rect x="315" y="140" width="156" height="30" rx="15" fill="#0c4b33"/><text x="393" y="160" fill="#fff" text-anchor="middle">Django</text>
+  </g>
+</svg>
