@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+  <title id="title">Developer journey</title>
+  <desc id="desc">A timeline from joining GitHub in 2021 through internships and current projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111d35"/>
+      <stop offset="1" stop-color="#102a25"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="998" height="218" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <text x="34" y="40" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Developer journey</text>
+  <text x="34" y="61" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12">Learn · Build · Share · Repeat</text>
+  <rect x="90" y="108" width="820" height="4" rx="2" fill="url(#line)" opacity="0.85"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(125 110)">
+      <circle r="19" fill="#0d1117" stroke="#38bdf8" stroke-width="5" filter="url(#glow)"/>
+      <text y="-34" fill="#38bdf8" font-size="17" font-weight="700">2021</text>
+      <text y="48" fill="#f0f6fc" font-size="13" font-weight="600">Joined GitHub</text>
+      <text y="67" fill="#8b949e" font-size="11">Started building in public</text>
+    </g>
+    <g transform="translate(375 110)">
+      <circle r="19" fill="#0d1117" stroke="#6366f1" stroke-width="5" filter="url(#glow)"/>
+      <text y="-34" fill="#818cf8" font-size="17" font-weight="700">2023</text>
+      <text y="48" fill="#f0f6fc" font-size="13" font-weight="600">Industry experience</text>
+      <text y="67" fill="#8b949e" font-size="11">Product and Python internships</text>
+    </g>
+    <g transform="translate(625 110)">
+      <circle r="19" fill="#0d1117" stroke="#a78bfa" stroke-width="5" filter="url(#glow)"/>
+      <text y="-34" fill="#c4b5fd" font-size="17" font-weight="700">2024+</text>
+      <text y="48" fill="#f0f6fc" font-size="13" font-weight="600">Independent building</text>
+      <text y="67" fill="#8b949e" font-size="11">Web, automation and open source</text>
+    </g>
+    <g transform="translate(875 110)">
+      <circle r="19" fill="#0d1117" stroke="#22c55e" stroke-width="5" filter="url(#glow)"/>
+      <text y="-34" fill="#4ade80" font-size="17" font-weight="700">NOW</text>
+      <text y="48" fill="#f0f6fc" font-size="13" font-weight="600">Quant and AI</text>
+      <text y="67" fill="#8b949e" font-size="11">Trading systems and agents</text>
+    </g>
+  </g>
+</svg>

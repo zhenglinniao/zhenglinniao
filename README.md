@@ -12,6 +12,8 @@
 
   <p>
     <a href="https://github.com/zhenglinniao"><img src="https://img.shields.io/badge/GitHub-zhenglinniao-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://web.zlnblog.asia/"><img src="https://img.shields.io/badge/Blog-zlnblog.asia-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+    <a href="https://easy-to-learn-steel.vercel.app/"><img src="https://img.shields.io/badge/Project_Hub-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Project hub" /></a>
     <a href="https://space.bilibili.com/327629185"><img src="https://img.shields.io/badge/Bilibili-Kid-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
     <img src="https://komarev.com/ghpvc/?username=zhenglinniao&label=PROFILE+VIEWS&color=2f80ed&style=for-the-badge" alt="Profile views" />
   </p>
@@ -56,6 +58,8 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   </p>
 
   <h4>Tools & Environment</h4>
@@ -67,9 +71,36 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
 
-  <img src="https://skillicons.dev/icons?i=python,js,ts,vue,react,django,git,linux,vscode&perline=9" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,vue,react,django,fastapi,git,linux,vscode&perline=10" alt="Technology icons" />
 
 </div>
+
+## 🎯 Current focus
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/images/rocket.png" width="82" alt="Quant systems" /><br />
+      <strong>量化系统</strong><br />
+      <sub>策略、回测与交易自动化</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/images/jobs.png" width="82" alt="AI agents" /><br />
+      <strong>AI Agents</strong><br />
+      <sub>LangGraph 与智能工作流</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/images/play.png" width="82" alt="Product engineering" /><br />
+      <strong>产品工程</strong><br />
+      <sub>从想法到可用产品</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/images/coffee.gif" width="82" alt="Open source" /><br />
+      <strong>开源学习</strong><br />
+      <sub>阅读、实践与持续分享</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🏢 Experience
 
@@ -95,6 +126,10 @@
   </tbody>
 </table>
 
+<div align="center">
+  <img width="100%" src="./assets/profile/journey.svg" alt="Developer journey timeline" />
+</div>
+
 ## 🌏 Beyond code
 
 <table>
@@ -113,6 +148,28 @@
       <img src="./assets/images/thinking.png" width="110" alt="Think" /><br />
       <strong>阅读</strong><br />
       从书里认识世界，也重新认识自己。
+    </td>
+  </tr>
+</table>
+
+## 🔗 Find me online
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🧭 Project Hub</h3>
+      <p>集中展示正在构建和持续迭代的项目。</p>
+      <a href="https://easy-to-learn-steel.vercel.app/"><strong>访问项目主页 →</strong></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>✍️ Personal Blog</h3>
+      <p>记录技术学习、开发实践与生活思考。</p>
+      <a href="https://web.zlnblog.asia/"><strong>阅读博客 →</strong></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🌱 Gitee</h3>
+      <p>查看国内代码托管平台上的项目与镜像。</p>
+      <a href="https://gitee.com/zheng-linniao"><strong>访问 Gitee →</strong></a>
     </td>
   </tr>
 </table>
@@ -161,6 +218,37 @@
       <h3><a href="https://github.com/zhenglinniao/vibe-coding-cn">✨ Vibe Coding CN</a></h3>
       <p>开发经验、中文资料与提示词库组成的 Vibe Coding 工作站。</p>
       <code>Python</code> <code>Prompt Library</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zhenglinniao/translationcode_jupyter">🌐 Translation Code Jupyter</a></h3>
+      <p>使用 LLM Agent 辅助翻译英文 Notebook，让学习资料更容易阅读。</p>
+      <code>Jupyter Notebook</code> <code>LLM</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zhenglinniao/-demo">💬 Multi-user Chat Demo</a></h3>
+      <p>支持多用户、多轮问答、群组对话与 AI 模拟回复的聊天服务。</p>
+      <code>Python</code> <code>FastAPI</code>
+    </td>
+  </tr>
+</table>
+
+## 🧭 How I build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · Make it useful</h3>
+      <p>先解决真实问题，再逐步打磨体验与边界。</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · Make it clear</h3>
+      <p>偏爱清晰的结构、可读的代码和可维护的设计。</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · Make it better</h3>
+      <p>通过反馈与复盘持续迭代，让每个版本都更进一步。</p>
     </td>
   </tr>
 </table>
